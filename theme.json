@@ -1,10 +1,10 @@
 {
     "name": "Consolify",
     "author": "MegalonVII", 
-    "version": "1.0", 
+    "version": "1.0.1", 
     "manifest_version": 8,
     "target": "System-Wide",
-    "description": "A (mostly) complete UI overhaul for BPM to my own personal tastes. Thought I would share.",
+    "description": "A (mostly) complete UI overhaul for Gaming Mode to my own personal tastes. Uses a bunch of existing CSS Loader themes and congregates them into this theme.",
     "dependencies": {
         "Art Hero": {
             "Footer Options": "Smaller Footer",
@@ -80,6 +80,16 @@
             "Remove re-order": "Yes",
             "Show release date": "Yes",
             "Enable advanced filter": "Yes"
+        },
+        "Deck Store - Obsidian": {
+            "Main Color": {
+                "value": "Black",
+                "components": {
+                    "Main Color": "#000",
+                    "Dark Background Color": "#060606",
+                    "Light Background Color": "#171717"
+                }
+            }
         },
         "Faster Transition Animations": {
             "Speed": "3x"
