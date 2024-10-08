@@ -1,0 +1,13 @@
+{
+  "name": "HideBatteryIcon",
+  "author": "numselli",
+  "version": "v1.1",
+  "manifest_version": 9,
+  "inject": {
+    "shared.css": [
+      "bigpicture",
+      "QuickAccess"
+    ]
+  },
+  "id": "0415f727-83d4-4897-b831-8ef48d9b3905"
+}

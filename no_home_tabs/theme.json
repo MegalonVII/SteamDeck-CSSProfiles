@@ -1,0 +1,16 @@
+{
+  "name": "no_home_tabs",
+  "display_name": "No Home Tabs",
+  "version": "v1.0",
+  "author": "SuchMeme",
+  "manifest_version": 9,
+  "flags": [
+    "REQUIRE_NAV_PATCH"
+  ],
+  "inject": {
+    "bigpicture.css": [
+      "bigpicture"
+    ]
+  },
+  "id": "1f13929d-cb5b-4ab9-985f-a69504e055fe"
+}

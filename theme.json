@@ -1,0 +1,141 @@
+{
+    "name": "Consolify",
+    "author": "MegalonVII", 
+    "version": "1.0", 
+    "manifest_version": 8,
+    "target": "System-Wide",
+    "description": "A (mostly) complete UI overhaul for BPM to my own personal tastes. Thought I would share.",
+    "dependencies": {
+        "Art Hero": {
+            "Footer Options": "Smaller Footer",
+            "Gradient Settings": "Linear Gradient",
+            "Hero Appearance": "Expanded Hero",
+            "Hero Alignment": "Center - Default",
+            "Hero Fit": "Cover - Default",
+            "Hero Z-Order": "Default",
+            "Hero Height": "0",
+            "Hero Height - Fine Control": "0",
+            "Header Bar Height": "0",
+            "Header Bar Height - Fine Control": "0",
+            "No Header": "No",
+            "Carousel Font Size": "Larger",
+            "Carousel Font Height": "-4",
+            "Carousel Height": "5",
+            "Carousel Height - Fine Control": "0"
+        },
+        "Better Achievements": {
+            "Rare Shine Animation": "Everywhere",
+            "Achievement Icon Radius": "Round"
+        },
+        "Better Blur": {
+            "Blur Strength": "4",
+            "Opacity": "0.5"
+        },
+        "Better Download Page": {},
+        "Better Game Badges": {
+            "Compatibility badges": "Hidden",
+            "Compatibility badge style": "Hide the Deck icon, playable & verified badges",
+            "In library badges": "Visible on focus",
+            "Install status badges": "Visible on focus",
+            "Install status badge style": "Show both",
+            "Hide badges after (seconds)": "0.75"
+        },
+        "Button Prompts Galore": {
+            "controller Type": "XInput"
+        },
+        "Clean Game Launch": {},
+        "Clean Gameview": {
+            "Play Bar Style": "Transparent",
+            "Alignment": "Zoom-Center",
+            "Show Steam Cloud": "Yes",
+            "Ignore Footer": "Yes",
+            "Lock Logo": "Yes"
+        },
+        "Clean Library Capsule": {
+            "Disable Library Capsule": "No",
+            "No Home Text Patch": "No",
+            "Background Image": "No",
+            "Bold Text": "Yes",
+            "Outline": "Yes",
+            "Outline Size": "3",
+            "Colors": {
+                "Text Color": "#fff",
+                "Outline Color": "#000",
+                "Background Color": "#333333aa",
+                "Background Image": "Clean Library Capsule/example_steam.jpg"
+            }
+        },
+        "Colored Toggles": {
+            "Theme Color": {
+                "Main Color": "#f00",
+                "Text Color": "#000"
+            }
+        },
+        "Darken Unfocused Games": {
+            "Brightness": "0.5",
+            "Saturation": "0.5",
+            "Apply": "Recent Only"
+        },
+        "Deck Store - Better Wishlist": {
+            "Remove re-order": "Yes",
+            "Show release date": "Yes",
+            "Enable advanced filter": "Yes"
+        },
+        "Faster Transition Animations": {
+            "Speed": "3x"
+        },
+        "Focus Animation Border": {
+            "Focus Animation Border": "No Animation"
+        },
+        "Full Screen Menus": {
+            "Main Menu Width": "Off",
+            "QAM Width": "Off"
+        },
+        "Game Cover Reflections": {
+            "Focused Opacity": "1.0",
+            "Unfocused Opacity": "1.0",
+            "Blur": "0",
+            "Opacity Smoothness": "1.0"
+        },
+        "HideBatteryIcon": {},
+        "Mini Carousel": {
+            "Size": "0.7"
+        },
+        "no_home_tabs": {},
+        "Obsidian": {
+            "Main Color": {
+                "Background Color": "#000"
+            },
+            "Recent Games Background": {
+                "Recent Games Color": "#fff"
+            },
+            "Disable Blur": "Yes",
+            "Disable Glow": "Yes"
+        },
+        "Overlay Colapse Fix": {},
+        "Percentages": {},
+        "Re-Organize Deck Store": {
+            "Small Store Header": "Yes",
+            "Collapsed Compat Info": "Yes",
+            "Collapsed Game Info Showcase": "Yes"
+        },
+        "Remove 'New To Library'": {},
+        "Replace Uppercase with Capitalised": {},
+        "Round": {
+            "Intensity": "10px",
+            "Outlines": "Round"
+        },
+        "Tilted Home": {
+            "Angle": "20",
+            "Tilt Method": "3D"
+        },
+        "Top Bar Padding": {
+            "Home Menu Top Padding": "0px",
+            "Sideways Padding": "0px",
+            "Only Show Sideways Padding On Home": "No",
+            "Left Side Profile": "No",
+            "Left Side Time": "Yes",
+            "Left Side Battery": "No"
+        }
+    }
+}

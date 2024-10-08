@@ -1,0 +1,14 @@
+div.BasicUI div.appportrait_LibraryItemBox_WYgDg.Focusable:focus
+{
+	animation:
+	appportrait_growOutline_3wk3d .4s ease,
+    appportrait_fadeOutline_1FLuV 1.4s ease !important;
+}
+
+div.focusring_FocusRing_1IZrQ
+{
+    animation:
+    focusring_flash_1YTKZ .5s ease,
+    focusring_growOutline_Z3LxS .4s ease,
+    focusring_fadeOutline_2hZu3 .4s ease !important;
+}

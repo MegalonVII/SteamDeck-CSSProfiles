@@ -1,0 +1,48 @@
+{
+  "name": "Focus Animation Border",
+  "author": "JesusLuvsYooh",
+  "version": "v1.1",
+  "manifest_version": 8,
+  "patches": {
+    "Focus Animation Border": {
+      "default": "No Animation",
+      "type": "dropdown",
+      "values": {
+        "No Animation": {
+          "noblink.css": [
+            "bigpicture",
+            "QuickAccess",
+            "MainMenu",
+            "store",
+            "notificationtoasts.*"
+          ]
+        },
+        "Short Animation": {
+          "shortblink.css": [
+            "bigpicture",
+            "QuickAccess",
+            "MainMenu",
+            "store",
+            "notificationtoasts.*"
+          ]
+        },
+        "No Border ": {
+          "noborder.css": [
+            "SP"
+          ]
+        },
+        "No Border Global": {
+          "noborder.css": [
+            "bigpicture",
+            "QuickAccess",
+            "MainMenu",
+            "store",
+            "notificationtoasts.*"
+          ]
+        },
+        "System Default": {}
+      }
+    }
+  },
+  "id": "6e9d2439-905b-40d9-a633-7785a76cb612"
+}

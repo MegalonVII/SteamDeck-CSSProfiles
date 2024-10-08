@@ -1,0 +1,12 @@
+{
+  "name": "Replace Uppercase with Capitalised",
+  "manifest_version": 8,
+  "version": "6e47",
+  "inject": {
+    "shared.css": [
+      ".*"
+    ]
+  },
+  "author": "Mont",
+  "id": "ff5564b9-a80e-42df-8955-0c57d3bd6ed8"
+}
