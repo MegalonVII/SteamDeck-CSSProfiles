@@ -4,7 +4,7 @@
     "manifest_version": 9,
     "flags": ["PRESET"],
     "dependencies": {
-        "Art Hero": {
+            "Art Hero": {
             "Footer Options": "Smaller Footer",
             "Gradient Settings": "Linear Gradient",
             "Hero Appearance": "Expanded Hero",
@@ -14,13 +14,17 @@
             "Hero Height": "0",
             "Hero Height - Fine Control": "0",
             "Header Bar Height": "0",
-            "Header Bar Height - Fine Control": "1",
+            "Header Bar Height - Fine Control": "0",
             "No Header": "No",
             "Carousel Font Size": "No Change",
             "Carousel Font Height": "-4",
             "Carousel Height": "4",
             "Carousel Height - Fine Control": "8"
         },
+        "Avatar Customization Suite": {
+            "Options are [avatar] [status].": "Round Edge"
+        },
+        "BPM Settings Storage No Padding": {},
         "Better Achievements": {
             "Rare Shine Animation": "Everywhere",
             "Achievement Icon Radius": "Round"
@@ -37,7 +41,12 @@
             "Install status badges": "Visible on focus",
             "Install status badge style": "Show both",
             "Hide badges after (seconds)": "0.75"
-        }, "Button Prompts Galore": {
+        },
+        "Better Game Icons": {
+            "Radius": "0px",
+            "Downloading Icon Background ": "Transparent"
+        },
+        "Button Prompts Galore": {
             "controller Type": "XInput"
         },
         "Centered Game Text": {},
@@ -89,21 +98,28 @@
             "Main Color": {
                 "value": "Black",
                 "components": {
-                    "Main Color": "#000", 
-                    "Dark Background Color": "#060606", 
+                    "Main Color": "#000",
+                    "Dark Background Color": "#060606",
                     "Light Background Color": "#171717"
                 }
             }
+        },
+        "Deck Store - Rounded": {
+            "Intensity": "10px"
         },
         "DeckyDownloadBar": {},
         "DellyVolume": {
             "Animation": "Spring"
         },
+        "Desktop Rounded Games": {
+            "Border Radius": "10px"
+        },
         "Faster Transition Animations": {
             "Speed": "6x"
         },
-        "Focus Animation Border": {
-            "Focus Animation Border": "System Default"
+        "Fonts": {
+            "Font": "Lato",
+            "Text Transform": "Standard Case"
         },
         "Full Screen Menus": {
             "Main Menu Width": "Off",
@@ -118,9 +134,49 @@
         "Game Header Text Stroke": {},
         "Hero Zoom Eradication": {},
         "Hide 'New to Library' Label": {},
+        "no_search_bar": {},
+        "Hide Last Played On Home": {
+            "Add Margin": "Yes"
+        },
         "HideBatteryIcon": {},
+        "HideFamilyLibraryCount": {},
+        "Main Window Gradient": {
+            "Library Left Panel Transparency": {
+                "value": "Transparent",
+                "components": {
+                    "Left Panel Absolute Color": "#000"
+                }
+            },
+            "Library Main Panel Transparency": {
+                "value": "80%",
+                "components": {
+                    "Main Panel Absolute Color": "#000"
+                }
+            },
+            "Show on Nav": "Yes",
+            "Show on Download Bar": "Yes",
+            "Color": {
+                "value": "_",
+                "components": {
+                    "Gradient Color 1": "hsla(110, 60%, 40%, 1)",
+                    "Gradient Color 2": "#000"
+                }
+            },
+            "Rotation": "60 Degrees",
+            "Distribution": "20%",
+            "Use 3 Colors": {
+                "value": "No",
+                "components": {
+                    "Gradient Color 3": "#000"
+                }
+            },
+            "Distribution 2nd Color": "70%"
+        },
         "Mini Carousel": {
             "Size": "0.7"
+        },
+        "No Game Count": {
+            "No Game Count": "Hide Numbers Globally"
         },
         "No Gameview Tabs": {},
         "no_home_tabs": {},
@@ -137,11 +193,14 @@
                     "Recent Games Color": "#fff"
                 }
             },
-            "Disable Blur": "Yes",
-            "Disable Glow": "Yes"
+            "Disable Blur": "No",
+            "Disable Glow": "No"
         },
+        "Original Library Menu": {},
         "Overlay Colapse Fix": {},
+        "Padding Fix": {},
         "Percentages": {},
+        "Prominent Store Prices": {},
         "QAM Select bar right-hand Side": {},
         "Re-Organize Deck Store": {
             "Small Store Header": "No",
@@ -151,15 +210,28 @@
         "Remove 'New To Library'": {},
         "Replace Uppercase with Capitalised": {},
         "Round": {
-            "Intensity": "20px",
+            "Intensity": "10px",
             "Outlines": "Round"
         },
+        "Round Main Menu and QAM": {
+            "Round Main Menu": "Yes",
+            "Main Menu Roundness": "0.5",
+            "Round QAM": "Yes",
+            "QAM Roundness": "0.5"
+        },
+        "Rounded Keyboard": {
+            "Size": "10px"
+        },
+        "Smaller Quick Access Tabs": {
+            "Tab Height": "Square"
+        },
         "Tilted Home": {
-            "Angle": "20", "Tilt Method": "3D"
+            "Angle": "20",
+            "Tilt Method": "3D"
         },
         "Top Bar Padding": {
-            "Home Menu Top Padding": "0px",
-            "Sideways Padding": "0px",
+            "Home Menu Top Padding": "10px",
+            "Sideways Padding": "10px",
             "Only Show Sideways Padding On Home": "No",
             "Left Side Profile": "No",
             "Left Side Time": "Yes",
@@ -172,7 +244,7 @@
                     "Top Bar Color": "#000"
                 }
             },
-            "Always Add Transparency": "No"
+            "Always Add Transparency": "Yes"
         }
     }
 }
