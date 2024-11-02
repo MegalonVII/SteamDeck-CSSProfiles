@@ -485,8 +485,8 @@
         "Game Cover Reflections": {
             "Focused Opacity": "1.0",
             "Unfocused Opacity": "0.5",
-            "Blur": "5",
-            "Opacity Smoothness": "1.0"
+            "Blur": "4",
+            "Opacity Smoothness": "0.3"
         },
         "Game Header Text Stroke": {},
         "Hero Zoom Eradication": {},
@@ -586,8 +586,8 @@
             "Tilt Method": "3D"
         },
         "Top Bar Padding": {
-            "Home Menu Top Padding": "5px",
-            "Sideways Padding": "5px",
+            "Home Menu Top Padding": "0px",
+            "Sideways Padding": "0px",
             "Only Show Sideways Padding On Home": "No",
             "Left Side Profile": "No",
             "Left Side Time": "Yes",
