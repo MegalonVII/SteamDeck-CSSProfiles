@@ -26,7 +26,6 @@
         "Avatar Customization Suite": {
             "Options are [avatar] [status].": "Round Edge"
         },
-        "BPM Settings Storage No Padding": {},
         "Better Achievements": {
             "Rare Shine Animation": "Everywhere",
             "Achievement Icon Radius": "Round"
@@ -35,7 +34,6 @@
             "Blur Strength": "10",
             "Opacity": "0.5"
         },
-        "Better Download Page": {},
         "Better Game Badges": {
             "Compatibility badges": "Hidden",
             "Compatibility badge style": "Hide the Deck icon, playable & verified badges",
@@ -112,9 +110,9 @@
             "Container Edges": "Round"
         },
         "CapyMenu (Context Menus)": {
-            "Edges": "Sharp w/ Padding",
+            "Edges": "Round",
             "Size": "Normal",
-            "Layout": "Top Banner Title",
+            "Layout": "Default",
             "Menu Background": {
                 "value": "OLED Black",
                 "components": {
@@ -346,7 +344,7 @@
         "CapyMenu (Steam Menu)": {
             "Display icons": "Yes",
             "Display tab marker": "Yes",
-            "Dot marker": "No",
+            "Dot marker": "Yes",
             "Remove focus animation": "No",
             "Panel opacity": "1",
             "Panel color": {
@@ -475,7 +473,7 @@
         },
         "Fix Background Blur": {},
         "Fonts": {
-            "Font": "Lato",
+            "Font": "Figtree",
             "Text Transform": "Standard Case"
         },
         "Full Screen Menus": {
@@ -485,8 +483,8 @@
         "Game Cover Reflections": {
             "Focused Opacity": "1.0",
             "Unfocused Opacity": "0.5",
-            "Blur": "4",
-            "Opacity Smoothness": "0.3"
+            "Blur": "5",
+            "Opacity Smoothness": "0.2"
         },
         "Game Header Text Stroke": {},
         "Hero Zoom Eradication": {},
@@ -495,7 +493,6 @@
         "Hide Last Played On Home": {
             "Add Margin": "Yes"
         },
-        "HideBatteryIcon": {},
         "HideFamilyLibraryCount": {},
         "Improved Media Details": {
             "Always Show Details": "Yes"
@@ -587,7 +584,7 @@
         },
         "Top Bar Padding": {
             "Home Menu Top Padding": "0px",
-            "Sideways Padding": "0px",
+            "Sideways Padding": "5px",
             "Only Show Sideways Padding On Home": "No",
             "Left Side Profile": "No",
             "Left Side Time": "Yes",
